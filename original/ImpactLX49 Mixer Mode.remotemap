@@ -1,0 +1,284 @@
+Propellerhead Remote Mapping File					
+File Format Version	1.0.0				
+Control Surface Manufacturer	Nektar			
+Control Surface Model	Impact LX49 Mixer Mode  		
+Map Version	1.1.1
+//Last Edit Date: 16 May 2014					
+
+//  Copyright Nektar Technology Inc, 2013
+//  Tim Chandler
+
+Scope	Propellerheads	Reason Master Section	
+Define Group	Mode	Mute	Solo
+
+Map	Bank Down		Previous 8 Remote Base Channel					
+Map	Bank Up		Next 8 Remote Base Channel	
+
+Map	Fader 9		Master Level
+
+Map	Knob 1		Channel 1 Pan
+Map	Knob 2		Channel 2 Pan
+Map	Knob 3		Channel 3 Pan
+Map	Knob 4		Channel 4 Pan
+Map	Knob 5		Channel 5 Pan
+Map	Knob 6		Channel 6 Pan
+Map	Knob 7		Channel 7 Pan
+Map	Knob 8		Channel 8 Pan
+
+Map	Fader 1		Channel 1 Level
+Map	Fader 2		Channel 2 Level
+Map	Fader 3		Channel 3 Level
+Map	Fader 4		Channel 4 Level
+Map	Fader 5		Channel 5 Level
+Map	Fader 6		Channel 6 Level
+Map	Fader 7		Channel 7 Level
+Map	Fader 8		Channel 8 Level
+
+Map	Button 9		Mode=Mute			Solo
+Map	Button 9		Mode=Solo			Mute
+
+Map	Button 1		Channel 1 Mute			Mute
+Map	Button 2		Channel 2 Mute			Mute
+Map	Button 3		Channel 3 Mute			Mute
+Map	Button 4		Channel 4 Mute			Mute
+Map	Button 5		Channel 5 Mute			Mute
+Map	Button 6		Channel 6 Mute			Mute
+Map	Button 7		Channel 7 Mute			Mute
+Map	Button 8		Channel 8 Mute			Mute
+
+Map	Button 1		Channel 1 Solo			Solo
+Map	Button 2		Channel 2 Solo			Solo
+Map	Button 3		Channel 3 Solo			Solo
+Map	Button 4		Channel 4 Solo			Solo
+Map	Button 5		Channel 5 Solo			Solo
+Map	Button 6		Channel 6 Solo			Solo
+Map	Button 7		Channel 7 Solo			Solo
+Map	Button 8		Channel 8 Solo			Solo
+
+Scope	Propellerheads	Reason Essentials Master Section	
+Define Group	Mode	Mute	Solo
+
+Map	Bank Down		Previous 8 Remote Base Channel					
+Map	Bank Up		Next 8 Remote Base Channel	
+
+Map	Fader 9		Master Level
+
+Map	Knob 1		Channel 1 Pan
+Map	Knob 2		Channel 2 Pan
+Map	Knob 3		Channel 3 Pan
+Map	Knob 4		Channel 4 Pan
+Map	Knob 5		Channel 5 Pan
+Map	Knob 6		Channel 6 Pan
+Map	Knob 7		Channel 7 Pan
+Map	Knob 8		Channel 8 Pan
+
+Map	Fader 1		Channel 1 Level
+Map	Fader 2		Channel 2 Level
+Map	Fader 3		Channel 3 Level
+Map	Fader 4		Channel 4 Level
+Map	Fader 5		Channel 5 Level
+Map	Fader 6		Channel 6 Level
+Map	Fader 7		Channel 7 Level
+Map	Fader 8		Channel 8 Level
+
+Map	Button 9		Mode=Mute			Solo
+Map	Button 9		Mode=Solo			Mute
+
+Map	Button 1		Channel 1 Mute			Mute
+Map	Button 2		Channel 2 Mute			Mute
+Map	Button 3		Channel 3 Mute			Mute
+Map	Button 4		Channel 4 Mute			Mute
+Map	Button 5		Channel 5 Mute			Mute
+Map	Button 6		Channel 6 Mute			Mute
+Map	Button 7		Channel 7 Mute			Mute
+Map	Button 8		Channel 8 Mute			Mute
+
+Map	Button 1		Channel 1 Solo			Solo
+Map	Button 2		Channel 2 Solo			Solo
+Map	Button 3		Channel 3 Solo			Solo
+Map	Button 4		Channel 4 Solo			Solo
+Map	Button 5		Channel 5 Solo			Solo
+Map	Button 6		Channel 6 Solo			Solo
+Map	Button 7		Channel 7 Solo			Solo
+Map	Button 8		Channel 8 Solo			Solo
+
+Scope	Propellerheads	Record Master Section	
+Define Group	Mode	Mute	Solo
+
+Map	Bank Down		Previous 8 Remote Base Channel					
+Map	Bank Up		Next 8 Remote Base Channel	
+
+Map	Fader 9		Master Level
+
+Map	Knob 1		Channel 1 Pan
+Map	Knob 2		Channel 2 Pan
+Map	Knob 3		Channel 3 Pan
+Map	Knob 4		Channel 4 Pan
+Map	Knob 5		Channel 5 Pan
+Map	Knob 6		Channel 6 Pan
+Map	Knob 7		Channel 7 Pan
+Map	Knob 8		Channel 8 Pan
+
+Map	Fader 1		Channel 1 Level
+Map	Fader 2		Channel 2 Level
+Map	Fader 3		Channel 3 Level
+Map	Fader 4		Channel 4 Level
+Map	Fader 5		Channel 5 Level
+Map	Fader 6		Channel 6 Level
+Map	Fader 7		Channel 7 Level
+Map	Fader 8		Channel 8 Level
+
+Map	Button 9		Mode=Mute			Solo
+Map	Button 9		Mode=Solo			Mute
+
+Map	Button 1		Channel 1 Mute			Mute
+Map	Button 2		Channel 2 Mute			Mute
+Map	Button 3		Channel 3 Mute			Mute
+Map	Button 4		Channel 4 Mute			Mute
+Map	Button 5		Channel 5 Mute			Mute
+Map	Button 6		Channel 6 Mute			Mute
+Map	Button 7		Channel 7 Mute			Mute
+Map	Button 8		Channel 8 Mute			Mute
+
+Map	Button 1		Channel 1 Solo			Solo
+Map	Button 2		Channel 2 Solo			Solo
+Map	Button 3		Channel 3 Solo			Solo
+Map	Button 4		Channel 4 Solo			Solo
+Map	Button 5		Channel 5 Solo			Solo
+Map	Button 6		Channel 6 Solo			Solo
+Map	Button 7		Channel 7 Solo			Solo
+Map	Button 8		Channel 8 Solo			Solo
+
+Scope	Propellerheads	Mixer 14:2	
+Define Group	Mode	Mute	Solo
+Define Group	Bank	Bank 1	Bank 2
+
+Map	Bank Down		Bank=Bank 1					
+Map	Bank Up		Bank=Bank 2	
+
+Map	Fader 9		Master Level
+
+Map	Knob 1		Channel 1 Pan			Bank 1
+Map	Knob 2		Channel 2 Pan			Bank 1
+Map	Knob 3		Channel 3 Pan			Bank 1
+Map	Knob 4		Channel 4 Pan			Bank 1
+Map	Knob 5		Channel 5 Pan			Bank 1
+Map	Knob 6		Channel 6 Pan			Bank 1
+Map	Knob 7		Channel 7 Pan			Bank 1
+Map	Knob 8		Channel 8 Pan			Bank 1
+Map	Knob 1		Channel 9 Pan			Bank 2
+Map	Knob 2		Channel 10 Pan			Bank 2
+Map	Knob 3		Channel 11 Pan			Bank 2
+Map	Knob 4		Channel 12 Pan			Bank 2
+Map	Knob 5		Channel 13 Pan			Bank 2
+Map	Knob 6		Channel 14 Pan			Bank 2
+Map	Knob 7		0			Bank 2
+Map	Knob 8		0			Bank 2
+
+Map	Fader 1		Channel 1 Level			Bank 1
+Map	Fader 2		Channel 2 Level			Bank 1
+Map	Fader 3		Channel 3 Level			Bank 1
+Map	Fader 4		Channel 4 Level			Bank 1
+Map	Fader 5		Channel 5 Level			Bank 1
+Map	Fader 6		Channel 6 Level			Bank 1
+Map	Fader 7		Channel 7 Level			Bank 1
+Map	Fader 8		Channel 8 Level			Bank 1
+Map	Fader 1		Channel 9 Level			Bank 2
+Map	Fader 2		Channel 10 Level			Bank 2
+Map	Fader 3		Channel 11 Level			Bank 2
+Map	Fader 4		Channel 12 Level			Bank 2
+Map	Fader 5		Channel 13 Level			Bank 2
+Map	Fader 6		Channel 14 Level			Bank 2
+Map	Fader 7		0			Bank 2
+Map	Fader 8		0			Bank 2
+
+Map	Button 9		Mode=Mute			Solo
+Map	Button 9		Mode=Solo			Mute
+
+Map	Button 1		Channel 1 Mute			Mute	Bank 1
+Map	Button 2		Channel 2 Mute			Mute	Bank 1
+Map	Button 3		Channel 3 Mute			Mute	Bank 1
+Map	Button 4		Channel 4 Mute			Mute	Bank 1
+Map	Button 5		Channel 5 Mute			Mute	Bank 1
+Map	Button 6		Channel 6 Mute			Mute	Bank 1
+Map	Button 7		Channel 7 Mute			Mute	Bank 1
+Map	Button 8		Channel 8 Mute			Mute	Bank 1
+Map	Button 1		Channel 9 Mute			Mute	Bank 2
+Map	Button 2		Channel 10 Mute			Mute	Bank 2
+Map	Button 3		Channel 11 Mute			Mute	Bank 2
+Map	Button 4		Channel 12 Mute			Mute	Bank 2
+Map	Button 5		Channel 13 Mute			Mute	Bank 2
+Map	Button 6		Channel 14 Mute			Mute	Bank 2
+
+Map	Button 1		Channel 1 Solo			Solo	Bank 1
+Map	Button 2		Channel 2 Solo			Solo	Bank 1
+Map	Button 3		Channel 3 Solo			Solo	Bank 1
+Map	Button 4		Channel 4 Solo			Solo	Bank 1
+Map	Button 5		Channel 5 Solo			Solo	Bank 1
+Map	Button 6		Channel 6 Solo			Solo	Bank 1
+Map	Button 7		Channel 7 Solo			Solo	Bank 1
+Map	Button 8		Channel 8 Solo			Solo	Bank 1
+Map	Button 1		Channel 9 Solo			Solo	Bank 2
+Map	Button 2		Channel 10 Solo			Solo	Bank 2
+Map	Button 3		Channel 11 Solo			Solo	Bank 2
+Map	Button 4		Channel 12 Solo			Solo	Bank 2
+Map	Button 5		Channel 13 Solo			Solo	Bank 2
+Map	Button 6		Channel 14 Solo			Solo	Bank 2
+
+Map	Button 7		0			Bank 2
+Map	Button 8		0			Bank 2
+
+Scope	Propellerheads	ReGroove Mixer
+Define Group	Mode	pg1	pg2
+//	Control Surface Item	Key	Remotable Item	Scale	Mode			
+
+Map	Button 9		Mode=pg1			pg2
+Map	Button 9		Mode=pg2			pg1
+
+Map	Fader 9		Pattern Shuffle		
+
+Map	Fader 1		A1 Groove Amount	
+Map	Fader 2		A2 Groove Amount	
+Map	Fader 3		A3 Groove Amount	
+Map	Fader 4		A4 Groove Amount	
+Map	Fader 5		A5 Groove Amount
+Map	Fader 6		A6 Groove Amount
+Map	Fader 7		A7 Groove Amount
+Map	Fader 8		A8 Groove Amount
+
+Map	Button 1		A1 Groove Ch On			pg1		
+Map	Button 2		A2 Groove Ch On			pg1		
+Map	Button 3		A3 Groove Ch On			pg1		
+Map	Button 4		A4 Groove Ch On			pg1		
+Map	Button 5		A5 Groove Ch On			pg1
+Map	Button 6		A6 Groove Ch On			pg1	
+Map	Button 7		A7 Groove Ch On			pg1
+Map	Button 8		A8 Groove Ch On			pg1
+
+Map	Button 1		A1 Use Global Shuffle			pg2
+Map	Button 2		A2 Use Global Shuffle			pg2		
+Map	Button 3		A3 Use Global Shuffle			pg2		
+Map	Button 4		A4 Use Global Shuffle			pg2		
+Map	Button 5		A5 Use Global Shuffle			pg2
+Map	Button 6		A6 Use Global Shuffle			pg2	
+Map	Button 7		A7 Use Global Shuffle			pg2
+Map	Button 8		A8 Use Global Shuffle			pg2
+
+Map	Knob 1		A1 Slide			pg1	
+Map	Knob 2		A2 Slide			pg1		
+Map	Knob 3		A3 Slide			pg1		
+Map	Knob 4		A4 Slide			pg1		
+Map	Knob 5		A5 Slide			pg1
+Map	Knob 6		A6 Slide			pg1	
+Map	Knob 7		A7 Slide			pg1
+Map	Knob 8		A8 Slide			pg1
+
+Map	Knob 1		A1 Shuffle			pg2	
+Map	Knob 2		A2 Shuffle			pg2		
+Map	Knob 3		A3 Shuffle			pg2		
+Map	Knob 4		A4 Shuffle			pg2		
+Map	Knob 5		A5 Shuffle			pg2
+Map	Knob 6		A6 Shuffle			pg2	
+Map	Knob 7		A7 Shuffle			pg2
+Map	Knob 8		A8 Shuffle			pg2
+
