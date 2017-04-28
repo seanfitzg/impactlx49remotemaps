@@ -269,6 +269,26 @@ Map	Knob 6		6
 Map	Knob 7		7
 Map	Knob 8		8
 
+Map	Fader 1		1
+Map	Fader 2		2
+Map	Fader 3		3
+Map	Fader 4		4
+Map	Fader 5		0
+Map	Fader 6		0
+Map	Fader 7		0
+Map	Fader 8		0
+Map	Fader 9		0
+
+Map	Button 1		1
+Map	Button 2		2
+Map	Button 3		3
+Map	Button 4		4
+Map	Button 5		0
+Map	Button 6		0
+Map	Button 7		0
+Map	Button 8		0
+Map	Button 9		0
+
 Scope	Propellerheads	SubTractor Analog Synthesizer		
 //	Control Surface Item	Key	Remotable Item	Scale	Mode		
 
@@ -353,34 +373,34 @@ Map	Ctrl 113		LFO2 Dest
 Map	Ctrl 114		LFO2 Kbd Track
 Map	Ctrl 115		Osc2 Kbd Track
 
-Map	Knob 1		74
-Map	Knob 2		71
-Map	Knob 3		18
-Map	Knob 4		27
-Map	Knob 5		93
-Map	Knob 6		106
-Map	Knob 7		108
-Map	Knob 8		107
+Map	Knob 1		20 // Osc1 Wave
+Map	Knob 2		95 // Osc2 Wave
+Map	Knob 3		107 // Osc Mix
+Map	Knob 4		36 // FM Mod Wheel Amount 
+Map	Knob 5		26 // LFO1 Rate 
+Map	Knob 6		27 // LFO1 Amount
+Map	Knob 7		85 // Mod Env Gain 
+Map	Knob 8		18 // Filter Env Amount 
 
-Map	Fader 1		73
-Map	Fader 2		9
-Map	Fader 3		12
-Map	Fader 4		72
-Map	Fader 5		14
-Map	Fader 6		15
-Map	Fader 7		16
-Map	Fader 8		17
-Map	Fader 9		7
+Map	Fader 1		73 // Amp Env Attack	
+Map	Fader 2		9 // Amp Env Decay
+Map	Fader 3		12 // Amp Env Sustain
+Map	Fader 4		72 // Amp Env Release	
+Map	Fader 5		74 // Filter Freq	
+Map	Fader 6		71 // Filter Res
+Map	Fader 7		14 // Filter Env Attack 
+Map	Fader 8		15 // Filter Env Decay 
+Map	Fader 9		7 // Master Level
 
-Map	Button 1		0
-Map	Button 2		0
-Map	Button 3		0
-Map	Button 4		0
-Map	Button 5		19
-Map	Button 6		0
-Map	Button 7		0
-Map	Button 8		0
-Map	Button 9		0
+Map	Button 1		92 // Osc1 Phase Mode	
+Map	Button 2		94 // Osc2 On/Off	
+Map	Button 3		105 // Osc2 Phase Mode
+Map	Button 4		81 // Noise On/Off
+Map	Button 5		28 // LFO1 Wave
+Map	Button 6		29 // LFO1 Dest
+Map	Button 7		76 // Filter Type
+Map	Button 8		19 // Filter Env Invert
+Map	Button 9		86 // Mod Env Invert
 
 Scope	Propellerheads	Thor Polysonic Synthesizer	
 //	Control Surface Item	Key	Remotable Item	Scale	Mode		
