@@ -279,10 +279,10 @@ Map	Fader 7		0
 Map	Fader 8		0
 Map	Fader 9		0
 
-Map	Button 1		1
-Map	Button 2		2
-Map	Button 3		3
-Map	Button 4		4
+Map	Button 1		5
+Map	Button 2		6
+Map	Button 3		7
+Map	Button 4		8
 Map	Button 5		0
 Map	Button 6		0
 Map	Button 7		0
