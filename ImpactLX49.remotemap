@@ -903,34 +903,34 @@ Map	Ctrl 116		Modulator B One Shot
 Map	Ctrl 117		Modulator B Target
 Map	Ctrl 118		Modulator B To Motion
 
-Map	Knob 1		74
-Map	Knob 2		71
-Map	Knob 3		18
-Map	Knob 4		112
-Map	Knob 5		93
-Map	Knob 6		42
-Map	Knob 7		53
-Map	Knob 8		58
+Map	Knob 1		79 // Filter A Freq
+Map	Knob 2		78 // Filter A Resonance
+Map	Knob 3		92 // Oscillator A Motion
+Map	Knob 4		86 // Oscillator A Shift
+Map	Knob 5		93 // Oscillator A Index
+Map	Knob 6		43 // Oscillator B Motion
+Map	Knob 7		44 // Oscillator B Shift
+Map	Knob 8		42 // Oscillator B Index
 
-Map	Fader 1		73
-Map	Fader 2		9
-Map	Fader 3		12
-Map	Fader 4		72
-Map	Fader 5		14
-Map	Fader 6		15
-Map	Fader 7		16
-Map	Fader 8		17
-Map	Fader 9		0
+Map	Fader 1		87 // Oscillator A Attack
+Map	Fader 2		88 // Oscillator A Decay
+Map	Fader 3		89 // Oscillator A Sustain
+Map	Fader 4		90 // Oscillator A Release
+Map	Fader 5		73 // Oscillator B Attack
+Map	Fader 6		9 // Oscillator B Decay
+Map	Fader 7		12 // Oscillator B Sustain
+Map	Fader 8		72 // Oscillator B Release
+Map	Fader 9		14 // Filter Env Attack
 
-Map	Button 1		0
-Map	Button 2		0
-Map	Button 3		0
-Map	Button 4		0
-Map	Button 5		19
-Map	Button 6		0
-Map	Button 7		0
-Map	Button 8		0
-Map	Button 9		0
+Map	Button 1		95 // Oscillator A On/Off
+Map	Button 2		41 // Oscillator B On/Off
+Map	Button 3		25 // Modulator A On/Off
+Map	Button 4		114 // Modulator B On/Off
+Map	Button 5		54 // Filter A On/Off
+Map	Button 6		75 // Filter B On/Off
+Map	Button 7		56 // Shaper On/Off
+Map	Button 8		60 // Route Oscillator A To Filter B
+Map	Button 9		59 // Route Oscillator B To Filter B
 
 Scope	Propellerheads	NN19 Digital Sampler	
 //	Control Surface Item	Key	Remotable Item	Scale	Mode		
