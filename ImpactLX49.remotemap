@@ -27013,23 +27013,34 @@ Map	Ctrl 135		Source 3
 Map	Ctrl 136		Source 4
 Map	Ctrl 137		NoteOn
 
-Map	Knob 1		10			
-Map	Knob 2		1			
-Map	Knob 3		2			
-Map	Knob 4		3			
-Map	Knob 5		4			
-Map	Knob 6		6			
-Map	Knob 7		7			
-Map	Knob 8		8			
-Map	Fader 1		34			
-Map	Fader 2		35			
-Map	Fader 3		36			
-Map	Fader 4		37			
-Map	Fader 5		38			
-Map	Fader 6		39			
-Map	Fader 7		40			
-Map	Fader 8		41			
-Map	Fader 9		49			
+Map	Knob 1		3 // A Mod1 X
+Map	Knob 2		4 // A Mod1 Y
+Map	Knob 3		5 // A Mod2 X
+Map	Knob 4		6 // A Mod2 Y
+Map	Knob 5		20 // B Mod1 X
+Map	Knob 6		21 // B Mod1 Y
+Map	Knob 7		22 // B Mod2 X
+Map	Knob 8		23 // B Mod2 Y
+
+Map	Fader 1		15 // A Gen Select
+Map	Fader 2		16 // A Gen X
+Map	Fader 3		1 // A Mod1 Select
+Map	Fader 4		2 // A Mod2 Select
+Map	Fader 5		32 // B Gen Select
+Map	Fader 6		33 // B Gen X
+Map	Fader 7		18 // B Mod1 Select
+Map	Fader 8		19 // B Mod2 Select
+Map	Fader 9		96 // Balance
+
+Map	Button 1		17 // B Enable
+Map	Button 2		7 // A Phase Sync
+Map	Button 3		24 // B Phase Sync
+Map	Button 4		87 // Reverb On
+Map	Button 5		81 // Delay On
+Map	Button 6		84 // Delay Sync
+Map	Button 7		44 // Env2 Loop
+Map	Button 8		56 // LFO2 Synced Rate
+Map	Button 9		93 // Portamento		
 
 Scope	Propellerhead Software	se.propellerheads.Polar
 Map	Ctrl 1		Enabled
