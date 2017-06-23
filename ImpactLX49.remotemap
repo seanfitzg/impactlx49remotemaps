@@ -3738,18 +3738,34 @@ Map	Ctrl 10		Add Octave Down
 Map	Ctrl 11		Add Color
 Map	Ctrl 12		Alter
 
-Map	Knob 1		1			
-Map	Knob 2		2			
-Map	Knob 3		3			
-Map	Knob 4		4			
-Map	Knob 5		5			
-Map	Knob 6		6			
-Map	Knob 7		7			
-Map	Knob 8		8			
-Map	Fader 1		9			
-Map	Fader 2		10			
-Map	Fader 3		11			
-Map	Fader 4		12			
+Map	Knob 1		6
+Map	Knob 2		7
+Map	Knob 3		0
+Map	Knob 4		0
+Map	Knob 5		0
+Map	Knob 6		0
+Map	Knob 7		0
+Map	Knob 8		0
+
+Map	Fader 1		6
+Map	Fader 2		7
+Map	Fader 3		0
+Map	Fader 4		0
+Map	Fader 5		0
+Map	Fader 6		0
+Map	Fader 7		0
+Map	Fader 8		0
+Map	Fader 9		0
+
+Map	Button 1		1
+Map	Button 2		4
+Map	Button 3		5
+Map	Button 4		8
+Map	Button 5		9
+Map	Button 6		10
+Map	Button 7		11
+Map	Button 8		12
+Map	Button 9		0			
 
 Scope	SoundMod	ca.soundmod.Tritone
 Map	Ctrl 1		Input Gain Level
