@@ -21994,23 +21994,23 @@ Map	Ctrl 96		Pitch Bend
 Map	Ctrl 97		Sustain Pedal
 Map	Ctrl 98		Aftertouch
 
-Map	Knob 1		24		// VCF Cutoff
-Map	Knob 2		25		// VCF Resonance
-Map	Knob 3		26		// VCF EG Intensity
-Map	Knob 4		40		// VCF EG Attack
-Map	Knob 5		44		// CA EG Attack
-Map	Knob 6		45		// VCA EG Decay
-Map	Knob 7		46		// VCA EG Sustain
-Map	Knob 8		47		// VCA EG Release
-Map	Fader 1		9		// VCO 1 Wave Form
-Map	Fader 2		11		// VCO 1 Level
-Map	Fader 3		13		// VCO 2 Wave Form
-Map	Fader 4		15		// VCO 2 Level
-Map	Fader 5		17		// VCO 3 Wave Form
-Map	Fader 6		19		// VCO 3 Level
-Map	Fader 7		21		// VCO 4 Wave Form
-Map	Fader 8		23		// VCO 4 Level
-Map	Fader 9		49		// Output Volume
+Map	Knob 1		24  // VCF Cutoff
+Map	Knob 2		25  // VCF Resonance
+Map	Knob 3		26  // VCF EG Intensity
+Map	Knob 4		40  // VCF EG Attack
+Map	Knob 5		44  // CA EG Attack
+Map	Knob 6		45  // VCA EG Decay
+Map	Knob 7		46  // VCA EG Sustain
+Map	Knob 8		47  // VCA EG Release
+Map	Fader 1		9  // VCO 1 Wave Form
+Map	Fader 2		11  // VCO 1 Level
+Map	Fader 3		13  // VCO 2 Wave Form
+Map	Fader 4		15  // VCO 2 Level
+Map	Fader 5		17  // VCO 3 Wave Form
+Map	Fader 6		19  // VCO 3 Level
+Map	Fader 7		21  // VCO 4 Wave Form
+Map	Fader 8		23  // VCO 4 Level
+Map	Fader 9		49  // Output Volume		
 	
 
 Scope	KORG	jp.co.korg.Polysix
